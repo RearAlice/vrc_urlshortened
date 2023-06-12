@@ -1,0 +1,2 @@
+# vrc_urlshortened
+Bitly APIを使用して短縮URLを作成するPHPプログラムの例です
